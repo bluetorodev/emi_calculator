@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import io
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="EMI Calculator", layout="centered")
 
@@ -96,3 +96,4 @@ st.download_button(
     file_name="amortization_schedule.csv",
     mime="text/csv",
 )
+
