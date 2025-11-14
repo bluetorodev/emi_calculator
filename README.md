@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/bluetorodev/emi_calculator/blob/main/screenshot.png" alt="project-screenshot" width="400" height="600/">
+<img src="https://github.com/bluetorodev/emi_calculator/blob/main/screenshot.png" alt="project-screenshot">
 
   
   
@@ -72,4 +72,5 @@ Technologies used in the project:
 *   Backend / Logic: Python functions computing EMI using the formula: EMI = 𝑃 × 𝑟 × ( 1 + 𝑟 ) 𝑛 ( 1 + 𝑟 ) 𝑛 − 1 EMI= (1+r) n −1 P×r×(1+r) n ​ where 𝑃 P=principal 𝑟 r=monthly interest rate 𝑛 n=number of monthly payments.
 *   Hosting / Deployment: Streamlit Cloud
 *   Dependencies: (e.g.) streamlit numpy pandas
+
 *   Version: 1.0.0
