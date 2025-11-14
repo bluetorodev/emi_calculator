@@ -2,7 +2,7 @@
 
 <p id="description">A web-based Equated Monthly Installment (EMI) Calculator built with Streamlit and deployed on Streamlit Cloud .</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Final product</h2>
 
 [https://emicalculatorgit-bdmf9frspmaihvkhawewgg.streamlit.app/](https://emicalculatorgit-bdmf9frspmaihvkhawewgg.streamlit.app/)
 
@@ -74,3 +74,4 @@ Technologies used in the project:
 *   Dependencies: (e.g.) streamlit numpy pandas
 
 *   Version: 1.0.0
+
